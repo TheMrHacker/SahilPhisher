@@ -16,7 +16,6 @@ Just, Clone this repository Just Copy Paste the Commands step by step
 
 git clone https://github.com/TheMrHacker/SahilPhisher-Mr.Hacker-One-Click-Attack.git
 
-Now go to cloned directory and run 'Sahilphisher.sh' 
 
 cd SahilPhisher-Mr.Hacker-One-Click-Attack-main
 
