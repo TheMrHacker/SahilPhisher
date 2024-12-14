@@ -20,4 +20,4 @@ git clone https://github.com/TheMrHacker/SahilPhisher.git
 cd SahilPhisher-main
 
 
-bash sahilphisher
+bash sahilphisher.sh
