@@ -14,7 +14,7 @@ Beginners friendly
 # Installation
 Just, Clone this repository Just Copy Paste the Commands step by step
 
-git clone https://github.com/TheMrHacker/SahilPhisher-Mr.Hacker-One-Click-Attack.git
+git clone https://github.com/TheMrHacker/SahilPhisher.git
 
 
 cd SahilPhisher-Mr.Hacker-One-Click-Attack-main
