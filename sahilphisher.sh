@@ -3,10 +3,10 @@
 
 ##   MrHacker : 	Automated Phishing Tool
 ##   Author 	: 	Sahil Shinde
-##   Version 	: 	1.2.4
+##   Version 	: 	1.0.0
 
 
-__version__="1.2.4"
+__version__="1.0.0"
 
 
 ## DEFAULT HOST & PORT
